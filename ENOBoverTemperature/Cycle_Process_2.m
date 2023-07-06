@@ -1,4 +1,4 @@
-function Cycle = Cycle_Process(filename, const_gain)
+function Cycle = Cycle_Process_2(filename, const_gain)
 %Cycle_Process 根据每次cycle存的文件路径(struct)导入数据并进行后处理
 %
 %   struct结构体包含如下数据：
